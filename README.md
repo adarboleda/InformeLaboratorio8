@@ -49,18 +49,27 @@ Objetivos Específicos:
 8.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
 Amplitud de voltaje: 6.86 (V)                                                                                                                                             
-Periodo: ____________(s)
+Periodo: 1/f 
+
+f = 2.5 kHz                                                                                                                                                                       
+T = 1/2.5                                                                                                                                                                         
+**T = 0.4 m(s)**
 
 8.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
-f: _____________(Hz)                                                                                                                                                             
-ω: ____________(rad/s)
+**f: 2500(Hz)**
 
-8.5.7. Con el multímetro digital mida el voltaje de salida en RL: _______________
+ω: 2πf                                                                                                                                                                           
+ω: 2π(2500)                                                                                                                                                                       
+**ω: 15707,96 (rad/s)**
+
+8.5.7. Con el multímetro digital mida el voltaje de salida en RL: 4.833 V
+
+![image](https://user-images.githubusercontent.com/93734334/154856032-ca124316-e8eb-42d7-b266-46cc4c40bc5e.png)
 
 8.5.8. Compare el voltaje medido en el punto 8.5.5. y el obtenido en el punto 8.5.7.
-¿Coinciden? _______ ¿Por qué?
-_______________________________________________
+
+* No coinciden, esto de debe a que el osciloscopio da el valor del voltaje pico, mientras que el multimetro da un valor eficas es decir Vrms, si se quiere obtener el valor que da el osiloscpoio se debe usar la siguiente formula Vp = Vrms(0.707), reemplazando los valores Vp = 4.833(0.707), nos da Vp = 6.9 V que es el valor que da el osiloscopio.
 
 5. VIDEO
 
