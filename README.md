@@ -69,7 +69,7 @@ T = 1/2.5
 
 8.5.8. Compare el voltaje medido en el punto 8.5.5. y el obtenido en el punto 8.5.7.
 
-* No coinciden, esto de debe a que el osciloscopio da el valor del voltaje pico, mientras que el multimetro da un valor eficas es decir Vrms, si se quiere obtener el valor que da el osiloscpoio se debe usar la siguiente formula Vp = Vrms(0.707), reemplazando los valores Vp = 4.833(0.707), nos da Vp = 6.9 V que es el valor que da el osiloscopio.
+* No coinciden, esto de debe a que el osciloscopio da el valor del voltaje pico, mientras que el multimetro da un valor eficas es decir Vrms, esto pasa puesto que el multimetro da el 71% del valor del voltjae pico, si se quiere obtener el valor que da el osiloscpoio se debe usar la siguiente formula Vp = Vrms(0.707), reemplazando los valores Vp = 4.833(0.707), nos da Vp = 6.9 V que es el valor que da el osiloscopio.
 
 5. VIDEO
 
