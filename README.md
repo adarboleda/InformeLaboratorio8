@@ -20,7 +20,7 @@ Objetivos Específicos:
 
 8.5.2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.
 
-![image](https://user-images.githubusercontent.com/93734334/154853923-c7afe2aa-95ce-4492-9367-b22013cd4e8a.png)
+![image](https://user-images.githubusercontent.com/93734334/154954810-c4d6b36e-0bef-4a4e-8498-26f249545238.png)
 
 8.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
 
