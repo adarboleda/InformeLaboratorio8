@@ -9,7 +9,7 @@ Objetivo General:
 Objetivos Específicos:  
 
 * Explicar el concepto fundamental de ondas senoidales. 
-* Analizar el comportamiento de la señal senoidal en el circuito propuesto utilizando un osciloscopio y un multímetro. 
+* Analizar el comportamiento de la señal senoidal en el circuito propuesto utilizando un osciloscopio y un multímetro digital. 
 
 2. MARCO TEÓRICO 
 
@@ -82,9 +82,16 @@ T = 1/2.5
 
 https://youtu.be/UByaQab3O4E
 
-7. CONCLUSIONES
+6. CONCLUSIONES
 
 7. BIBLIOGRAFÍA
+
+Cajas, D. (01 de septiembre de 2015). Características de la onda senoidal. Obtenido de https://es.slideshare.net/vr3220/caractersticas-de-la-onda-senoidal
+
+ECURED. (12 de agosto de 2021). Onda senoidal. Obtenido de https://www.ecured.cu/Onda_senoidal
+
+
+
 
 RUBRICA
 
