@@ -4,7 +4,12 @@
 
 Objetivo General:
 
+Comprobar experimentalmente las características y el funcionamiento de señales senoidales mediante un análisis practico y teórico a través de una simulación de medida con la ayuda del DCACLAB.
+
 Objetivos Específicos:  
+
+* Explicar el concepto fundamental de ondas senoidales. 
+* Analizar el comportamiento de la señal senoidal en el circuito propuesto utilizando un osciloscopio y un multímetro. 
 
 2. MARCO TEÓRICO 
 
