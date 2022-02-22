@@ -13,6 +13,8 @@ Objetivos Específicos:
 
 2. MARCO TEÓRICO 
 
+![image](https://user-images.githubusercontent.com/93733175/155142208-dec3b321-45b4-4f1e-9923-51a09186ffd1.png)
+
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 **Material y equipo requerido**
