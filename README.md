@@ -60,7 +60,7 @@ Periodo: 1/f
 
 f = 2.5 kHz                                                                                                                                                                       
 T = 1/2.5                                                                                                                                                                         
-**T = 0.4 m(s)**
+**T = 0.0004 (s)**
 
 8.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
