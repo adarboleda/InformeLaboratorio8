@@ -43,7 +43,7 @@ Objetivos Específicos:
 
 ¿En qué valor está posicionada la perilla VOLTS/DIV? 
 
-* Esta posisionado en el valor de 3
+* Esta posisionado en el valor de 3v
 
 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
@@ -51,20 +51,24 @@ Objetivos Específicos:
 
 ¿En qué valor está posicionada la perilla TIME/DIV? 
 
-* Esta posicionado en el valor de 0.1m.
+* Esta posicionado en el valor de 0.1ms.
 
 8.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
-Amplitud de voltaje: 6.86 (V)                                                                                                                                             
-Periodo: 1/f 
+Amplitud de voltaje:                                                                                                                                                             
+Como cada cuadro equivale a 3V y se observa 2 cuadros y un poco mas entonces da un valor aproximado de 6.8 (V)                                                                                                                                             
+Periodo: 
 
-f = 2.5 kHz                                                                                                                                                                       
-T = 1/2.5                                                                                                                                                                         
-**T = 0.0004 (s)**
+Un ciclo es de 4 cuadros y esto se va a multiplicar po el valor de la perilla TIME/DIV que es de 0.0001 ms                                                                       
+4(0.0001) = 0.0004 s                                                                                                                                                             
+**T = 0.0004s**
 
 8.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
-**f: 2500(Hz)**
+Se va a usar el periodo anteriormente encontrado en la siguiente formula:                                                                                                         
+fn = 1/T                                                                                                                                                                         
+fn = 1/0.0004                                                                                                                                                                     
+**fn: 2500 (Hz)**
 
 ω: 2πf                                                                                                                                                                           
 ω: 2π(2500)                                                                                                                                                                       
@@ -76,7 +80,7 @@ T = 1/2.5
 
 8.5.8. Compare el voltaje medido en el punto 8.5.5. y el obtenido en el punto 8.5.7.
 
-* No coinciden, esto se debe a que el osciloscopio da el valor del voltaje pico, mientras que el multimetro da un valor eficas es decir Vrms, esto pasa puesto que el multimetro da el 71% del valor del voltaje pico, si se quiere obtener el valor que da el osiloscpoio se debe usar la siguiente formula Vp = Vrms(0.707), reemplazando los valores Vp = 4.833(0.707), nos da Vp = 6.9 V que es el valor que da el osiloscopio.
+* No coinciden, esto se debe a que el osciloscopio da el valor del voltaje pico, mientras que el multimetro da un valor eficas es decir Vrms, esto pasa puesto que el multimetro da el 71% del valor del voltjae pico, si se quiere obtener el valor que da el osiloscpoio se debe usar la siguiente formula Vp = Vrms(0.707), reemplazando los valores Vp = 4.833(0.707), nos da Vp = 6.9 V que es el valor que da el osiloscopio.
 
 5. VIDEO
 
