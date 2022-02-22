@@ -39,7 +39,7 @@ Objetivos Específicos:
 
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
-* La amplitud pico abarca dos cuadros.
+* La amplitud pico abarca 2.3 cuadros aproximadamente.
 
 ¿En qué valor está posicionada la perilla VOLTS/DIV? 
 
